@@ -1,8 +1,0 @@
-pandas
-numpy
-Afinn
-Pillow
-seaborn
-matplotlib
-psycopg2
-SQLAlchemy
