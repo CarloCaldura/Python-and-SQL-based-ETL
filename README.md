@@ -27,12 +27,12 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone the repository:
 
    bash
-   git clone https://github.com/DavidePosillipo/develhope_2023_team2.git
+   git clone https://github.com/CarloCaldura/Python-and-SQL-based-ETL.git
 
 2. Go to the project directory:
 
    bash
-   cd develhope_2023_team2/progetto_2
+   cd Python-and-SQL-based-ETL
 
 3. Activate the virtual environment:
 
