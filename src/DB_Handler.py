@@ -1,7 +1,6 @@
 import psycopg2
 import csv
 import pandas as pd
-import os
 
 
 class DB_Handler:
